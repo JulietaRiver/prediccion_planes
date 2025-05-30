@@ -1,5 +1,6 @@
 # prediccion_planes
 predecir el comportamiento de suscriptores que ya migraron a nuevos planes, usando técnicas de Machine Learning.
+
 📡 Predicción del Comportamiento de Suscriptores ante Nuevos Planes
 📌 Descripción del Proyecto
 En este proyecto, se analiza el comportamiento de clientes que ya han migrado a nuevos planes de suscripción, con el objetivo de identificar patrones y predecir su respuesta futura utilizando técnicas de Machine Learning.
@@ -36,14 +37,14 @@ Se identificaron las variables más relevantes en la migración de planes.
 Se obtuvo un modelo eficiente que puede ser usado como base para implementar estrategias de retención y upselling.
 
 📂 Estructura del Proyecto
-kotlin
-Copiar
-Editar
+
 📦 subscriber_migration_prediction
  ┣ 📄 modelo_prediccion_planes.ipynb
  ┣ 📄 README.md
  ┗ 📂 data/
      ┗ suscriptores_nuevos_planes.csv
+
+
 ✨ Autora
 Julieta Rivera
 Data Scientist Jr. | Apasionada por aplicar machine learning a problemas reales de negocio
